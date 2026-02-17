@@ -38,19 +38,22 @@
 
 <p align="center">
   <a href="https://github.com/alirezas-huma">
-    <img src="https://github-readme-stats.vercel.app/api?username=alirezas-huma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alirezas-huma">
     <img src="https://streak-stats.demolab.com?user=alirezas-huma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alirezas-huma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezas-huma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezas-huma&theme=tokyonight" alt="Profile Details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alirezas-huma">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirezas-huma&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/alirezas-huma">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezas-huma&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
